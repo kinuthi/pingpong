@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # {PingPong}
-#### {the application is a game of numcers}, {13/07/018}
+#### {the application is a game of numbers}, {13/07/018}
 =======
 # {Application Name}
 #### {Brief description of application}, {Date of current version}
@@ -26,5 +25,5 @@
 Copyright (c) {year} **{List of contributors or company name}**
 <<<<<<< HEAD
 =======
-  
+
 >>>>>>> 83c8d2d7079b46a0e902fd4c272c835d5fb97250
