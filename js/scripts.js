@@ -1,6 +1,7 @@
 $(document).ready(function(){
   $('form#god').submit(function(event){
     event.preventDefault();
+    $("#pop").empty();
     var input=parseInt($('input#sun').val());
     var output=pingpong(input)
   })

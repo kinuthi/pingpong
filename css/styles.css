@@ -13,7 +13,10 @@
   padding-bottom: 110px;
 }
 #cup{
-  background-color:#633AB6;
+  background-color:#2D8CDD;
+}
+#cup:hover{
+  color: red;
 }
 #lap{
   margin-bottom: 50px;
@@ -23,4 +26,8 @@
 }
 #pen{
   color: red;
+}
+#mik{
+  margin-left: 100px;
+  margin-right: 100px;
 }
